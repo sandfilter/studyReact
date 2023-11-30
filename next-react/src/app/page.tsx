@@ -22,6 +22,12 @@ export default function Home() {
         <li><Link href='./renderingLists/challenge3'>Rendering Lists - challenge3</Link></li>
         <li><Link href='./renderingLists/challenge4'>Rendering Lists - challenge4</Link></li>
       </ol>
+      <hr className='my-5'/>
+      <ol>
+        <li><Link href='./keepingComponentsPure/challenge1'>Keeping Components Pure - challenge1</Link></li>
+        <li><Link href='./keepingComponentsPure/challenge2'>Keeping Components Pure - challenge2</Link></li>
+        <li><Link href='./keepingComponentsPure/challenge3'>Keeping Components Pure - challenge3</Link></li>
+      </ol>
     </main>
   )
 }
